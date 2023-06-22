@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/sb_diploma/static/css/main.31d6cfe0.css",
+    "main.js": "/sb_diploma/static/js/main.f933c3cc.js",
+    "index.html": "/sb_diploma/index.html",
+    "main.f933c3cc.js.map": "/sb_diploma/static/js/main.f933c3cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f933c3cc.js"
+  ]
+}
