@@ -1,7 +1,8 @@
 import Layout from "../components/Layout";
 import Banner01 from "../components/Banners/Banner01"
 import Ads from "../components/Ads";
-
+import LinkPicture from "../components/LinkPicture";
+import Slider from "../components/Slider";
 
 import bannersData from "../assets/data/banners.json";
 import adsData from "../assets/data/ads.json";
@@ -19,6 +20,14 @@ export function Home () {
         <Layout mb={4} dt={4} gap="none"/>
         <Layout mb={2} dt={3}/> */}
         <div className="mainWrapper">
+            <Layout>
+                <Slider img1="ads01" img2="ads02" img3="ads03" img4="ads04" />
+            </Layout>
+            <Layout dt={3}>
+                <LinkPicture img="people01" text="Девушкам"/>
+                <LinkPicture img="people02" text="Мужчинам"/>
+                <LinkPicture img="people03" text="Детям"/>
+            </Layout>
             <Layout>
                 <Banner01 {...bannersData[1]}/>
                 <Banner01 {...bannersData[0]} pattern={false}/>
