@@ -1,21 +1,44 @@
 {
   "files": {
-    "main.css": "/sb_diploma/static/css/main.c261b77d.css",
-    "main.js": "/sb_diploma/static/js/main.710d73b7.js",
+    "main.css": "/sb_diploma/static/css/main.bffc74ef.css",
+    "main.js": "/sb_diploma/static/js/main.833b69cc.js",
     "static/media/banner01.jpg": "/sb_diploma/static/media/banner01.1a8e5747a16a7811b560.jpg",
     "static/media/dog01.jpg": "/sb_diploma/static/media/dog01.fc6b19c147e038ba6b92.jpg",
     "static/media/pattern01.jpg": "/sb_diploma/static/media/pattern01.f463b030243d60b02113.jpg",
+    "static/media/ads05.webp": "/sb_diploma/static/media/ads05.f09f33df82809b26419a.webp",
+    "static/media/ads04.webp": "/sb_diploma/static/media/ads04.43866078749f20a809ae.webp",
+    "static/media/people03.jpg": "/sb_diploma/static/media/people03.6adbeeee00661b978693.jpg",
+    "static/media/ads13.webp": "/sb_diploma/static/media/ads13.b3e6bddcc4644c045bff.webp",
+    "static/media/ads15.webp": "/sb_diploma/static/media/ads15.3c558736d817556ee07b.webp",
+    "static/media/ads02.webp": "/sb_diploma/static/media/ads02.e36294b4a37a4d4a453c.webp",
+    "static/media/ads11.webp": "/sb_diploma/static/media/ads11.d68fdff587606df0cd13.webp",
+    "static/media/ads09.webp": "/sb_diploma/static/media/ads09.fea1a84fe5cfa3411020.webp",
+    "static/media/ads06.webp": "/sb_diploma/static/media/ads06.6fffcbaca9f796699e3c.webp",
+    "static/media/ads12.webp": "/sb_diploma/static/media/ads12.15e9840accfa4ffe8400.webp",
+    "static/media/ads03.webp": "/sb_diploma/static/media/ads03.d2f60dfcf77f632c60ef.webp",
+    "static/media/people03-dark.jpg": "/sb_diploma/static/media/people03-dark.a17b6cfc646e4f4e7016.jpg",
+    "static/media/ads14.webp": "/sb_diploma/static/media/ads14.59ee79624c3e1dd2bc43.webp",
+    "static/media/people02.jpg": "/sb_diploma/static/media/people02.e98902b14fc414cc658e.jpg",
+    "static/media/people04.jpg": "/sb_diploma/static/media/people04.8381215c8ae1f46fa1dd.jpg",
     "static/media/icon_color_dog05.png": "/sb_diploma/static/media/icon_color_dog05.26d19897710536dad071.png",
     "static/media/icon_color_dog03.png": "/sb_diploma/static/media/icon_color_dog03.6ff8f69c266f66b823e4.png",
+    "static/media/ads10.webp": "/sb_diploma/static/media/ads10.681ac7f73df9f50599ac.webp",
+    "static/media/ads07.webp": "/sb_diploma/static/media/ads07.f01ee7155fb46346d4a1.webp",
     "static/media/icon_color_dog04.png": "/sb_diploma/static/media/icon_color_dog04.f513d7cece57ce1ed8c0.png",
+    "static/media/people02-dark.jpg": "/sb_diploma/static/media/people02-dark.0c99909de0dac6df94f2.jpg",
+    "static/media/people04-dark.jpg": "/sb_diploma/static/media/people04-dark.d84285260678e8cbf32d.jpg",
     "static/media/icon_color_dog01.png": "/sb_diploma/static/media/icon_color_dog01.999886069233a4973dd8.png",
+    "static/media/people01.jpg": "/sb_diploma/static/media/people01.196fd2098daefd71790a.jpg",
     "static/media/icon_color_dog02.png": "/sb_diploma/static/media/icon_color_dog02.fdc259797a0fc13531b1.png",
+    "static/media/ads08.webp": "/sb_diploma/static/media/ads08.6f6e6200d1dcc48ce1cb.webp",
+    "static/media/people01-dark.jpg": "/sb_diploma/static/media/people01-dark.1119bfe2668fa814b73f.jpg",
+    "static/media/ads01.webp": "/sb_diploma/static/media/ads01.5815e145c18d0286688b.webp",
     "index.html": "/sb_diploma/index.html",
-    "main.c261b77d.css.map": "/sb_diploma/static/css/main.c261b77d.css.map",
-    "main.710d73b7.js.map": "/sb_diploma/static/js/main.710d73b7.js.map"
+    "main.bffc74ef.css.map": "/sb_diploma/static/css/main.bffc74ef.css.map",
+    "main.833b69cc.js.map": "/sb_diploma/static/js/main.833b69cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.c261b77d.css",
-    "static/js/main.710d73b7.js"
+    "static/css/main.bffc74ef.css",
+    "static/js/main.833b69cc.js"
   ]
 }
