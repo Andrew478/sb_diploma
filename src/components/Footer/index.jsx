@@ -8,16 +8,13 @@ const Footer = () => {
         <div className="footer__navBlock">
             <h2>DogFood</h2>
             <p>Сделано Андреем Жмако</p>
-            <p>Мой GitHub</p>
+            <p>Мой <a href="https://github.com/Andrew478">Github</a></p>
             <p>©2023 All rights reserved</p>
         </div>
         <div className="footer__navBlock">
             <h2>Авторство</h2>
-            <p><a href="https://www.flaticon.com/free-icons/siberian-husky" title="siberian husky icons">Siberian husky icons by smalllikeart - Flaticon</a></p>
-            <p><a href="https://www.flaticon.com/free-icons/shiba" title="shiba icons">Shiba icons by smalllikeart - Flaticon</a></p>
-            <p><a href="https://www.flaticon.com/free-icons/labrador" title="labrador icons">Labrador icons by smalllikeart - Flaticon</a></p>
-            <p><a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons by smalllikeart - Flaticon</a></p>
-            <p><a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons by smalllikeart - Flaticon</a></p>
+            <p>Фото и материалы взяты с сайта <a href="https://stockmann.ru/">Стокманн</a></p>
+            <p>Дизайн вдохновлён сайтом <a href="https://stockmann.ru/">Стокманн</a></p>
         </div>
         <div className="footer__navBlock">
             <p><Link to="/auth">Войти</Link></p>

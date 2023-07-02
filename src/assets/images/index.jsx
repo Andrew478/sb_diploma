@@ -38,6 +38,22 @@ import ads13 from "./ads/ads13.webp";
 import ads14 from "./ads/ads14.webp";
 import ads15 from "./ads/ads15.webp";
 
+/* Баннеры брендов */
+import brand01 from "./brands/21_MAISON.webp";
+import brand02 from "./brands/BELUCCI.webp";
+import brand03 from "./brands/BOSS.webp";
+import brand04 from "./brands/COCCINELLE.webp";
+import brand05 from "./brands/DESIGUAL.webp";
+
+import brand06 from "./brands/EMME_MARELLA.webp";
+import brand07 from "./brands/EMPORIO_ARMANI.webp";
+import brand08 from "./brands/ESPRIT_CASUAL.webp";
+import brand09 from "./brands/FURLA.webp";
+import brand10 from "./brands/GUESS.webp";
+
+import brand11 from "./brands/HUGO.webp";
+import brand12 from "./brands/KARL_LAGERFELD.webp";
+
 
 
 const SiteImages = {
@@ -80,7 +96,22 @@ const SiteImages = {
     'ads12': ads12,
     'ads13': ads13,
     'ads14': ads14,
-    'ads15': ads15
+    'ads15': ads15,
+
+    'brand01': brand01,
+    'brand02': brand02,
+    'brand03': brand03,
+    'brand04': brand04,
+    'brand05': brand05,
+
+    'brand06': brand06,
+    'brand07': brand07,
+    'brand08': brand08,
+    'brand09': brand09,
+    'brand10': brand10,
+
+    'brand11': brand11,
+    'brand12': brand12
 }
 
 export default SiteImages;

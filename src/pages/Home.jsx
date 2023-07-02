@@ -6,6 +6,7 @@ import Slider from "../components/Slider";
 
 import bannersData from "../assets/data/banners.json";
 import adsData from "../assets/data/ads.json";
+import BrandLine from "../components/BrandLine";
 
 
 export function Home () {
@@ -23,11 +24,14 @@ export function Home () {
             <Layout>
                 <Slider img1="ads01" img2="ads02" img3="ads03" img4="ads04" />
             </Layout>
+            
             <Layout dt={3}>
                 <LinkPicture img="people01" text="Девушкам"/>
                 <LinkPicture img="people02" text="Мужчинам"/>
                 <LinkPicture img="people03" text="Детям"/>
             </Layout>
+            <Layout><BrandLine /></Layout>
+            
             <Layout>
                 <Banner01 {...bannersData[1]}/>
                 <Banner01 {...bannersData[0]} pattern={false}/>

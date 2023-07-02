@@ -11,3 +11,10 @@
 .footer__navBlock {
     padding: 2rem;
 }
+.footer a {
+    color: inherit;
+    transition: color 0.3s ease-out;
+}
+.footer a:hover {
+    color: #1D96F3;
+}

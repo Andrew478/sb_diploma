@@ -1,0 +1,22 @@
+.brand-line {
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+.brand-line-img {
+    /* width: 170px; */
+    cursor: pointer;
+    width: calc(100% / 7);
+    max-height: 170px;
+    border: 1px solid rgb(184, 184, 184);
+}
+.brand-line-img:hover {
+    border: 1px solid black;
+}
+
+/* Вёрстка для пк */
+/* @media screen and (min-width:1064px) {
+    
+} */
