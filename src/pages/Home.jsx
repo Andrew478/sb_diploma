@@ -21,9 +21,9 @@ export function Home () {
         <Layout mb={4} dt={4} gap="none"/>
         <Layout mb={2} dt={3}/> */}
         <div className="mainWrapper">
-            <Layout>
+            {/* <Layout>
                 <Slider img1="ads01" img2="ads02" img3="ads03" img4="ads04" />
-            </Layout>
+            </Layout> */}
             
             <Layout dt={3}>
                 <LinkPicture img="people01" text="Девушкам"/>
